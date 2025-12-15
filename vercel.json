@@ -1,6 +1,7 @@
 {
+  "version": 2,
   "functions": {
-    "api/*.js": {
+    "api/holders.js": {
       "runtime": "nodejs20.x"
     }
   }
