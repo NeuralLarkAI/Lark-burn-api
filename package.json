@@ -1,1 +1,9 @@
-
+{
+  "name": "lark-burn-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "bs58": "^5.0.0"
+  }
+}
