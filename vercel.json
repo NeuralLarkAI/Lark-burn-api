@@ -1,6 +1,3 @@
 {
-  "version": 2,
-  "rewrites": [
-    { "source": "/api/holders", "destination": "/api/holders.js" }
-  ]
+  "version": 2
 }
